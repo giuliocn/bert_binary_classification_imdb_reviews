@@ -1,1 +1,1 @@
-# IMDB movie reviews notebooks
+# IMDB movie reviews binary classification
